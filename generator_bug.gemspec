@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Moritz Winter"]
   s.email       = ["mw@wintersolutions.de"]
   s.homepage    = "http://wintersolutions.de"
-  s.summary     = "Demonstrates issue #2884 in the 'Mongoid' gem."
-  s.description = "Demonstrates issue #2884 in the 'Mongoid' gem."
+  s.summary     = "Demonstrates issue #2886 in the 'Mongoid' gem."
+  s.description = "Demonstrates issue #2886 in the 'Mongoid' gem."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.markdown"]
   s.test_files = Dir["test/**/*"]
